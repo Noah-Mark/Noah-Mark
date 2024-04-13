@@ -2,6 +2,25 @@
 
 ###
 
+<h5 align="left">Note: This is an inactive account.</h5>
+
+###
+
+<h1 align="left">Checkout my active account: https://github.com/NoahMarkDelaPena</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noah-Mark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noah-Mark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
 <h2 align="left">Frontend</h2>
 
 ###
@@ -34,6 +53,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="left">Backend</h2>
 
 ###
@@ -55,6 +78,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -83,6 +110,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">My socials:</h3>
 
 ###
 
